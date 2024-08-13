@@ -1,0 +1,15 @@
+
+title: TheDeathlyCow
+email: thedeathlycow@gmail.com
+description: >- 
+
+domain: my-site.github.io  
+url: "https://thedeathlycow.com"
+github_username: TheDeathlyCow
+
+# Build settings
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
