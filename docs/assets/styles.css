@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaini');
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    width: auto;
+    height: 2rem;
+    image-rendering: crisp-edges;
+}
+
+.md-header__button.md-logo {
+    padding: 0;
+}
+
+:root {
+    --md-primary-fg-color: #6809ed;
+}
+
+.md-header__title {
+    flex-grow: 1;
+    font-size: 2rem;
+    height: 3.5rem;
+    line-height: 3.5rem;
+    font-family: "Jaini";
+}
+
+h1 {
+    font-family: "Jaini";
+}
