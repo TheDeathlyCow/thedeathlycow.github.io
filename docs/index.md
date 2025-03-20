@@ -60,7 +60,7 @@ Here are some ways you can contact me!
 ---
 
 ### Calyx C++
-[**Calyx C++**](./project/calyx-cpp.md) is a C++ generative grammar library, comissioned by Fictive Works.
+[**Calyx C++**](./project/calyx-cpp.md) is a C++ generative grammar library, commissioned by Fictive Works.
 
 [**Read More**](./project/calyx-cpp.md)
 
