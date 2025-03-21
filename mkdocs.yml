@@ -21,6 +21,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - md_in_html
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
@@ -32,6 +33,5 @@ markdown_extensions:
 
 nav:
   - index.md
-  - "Projects":
-    - project/frostiful.md
-    - project/scorchful.md
+  - minecraft_mods.md
+  - games_and_software.md
