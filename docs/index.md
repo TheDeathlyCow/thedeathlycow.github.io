@@ -7,7 +7,7 @@ title: Home
 
 Hi, I'm Michael (though I go by TheDeathlyCow online). I am currently studying towards a Master's degree in Product Design at the University of Canterbury in Christchurch, New Zealand. I have previously completed a Bachelor of Science degree from UC, having graduated in 2023 majoring in Computer Science with minors in Game Development and Mathematics.
 
-My master's research focuses on generative narrative in role-playing video games, and the role that large language models have to play in the narrative design process. My goal in this research is to find ways to work with AI that ensures that the technology does not overwhelm and replace human developers and designers, and to find ways to preserve the artistic integrity of game narratives in a world where automation increasingly seeks to destroy it. 
+My master's research focuses on generative narrative in role-playing video games, and the role that large language models have to play in the narrative design process. My goal in this research is to find ways to work with AI that ensures that the technology does not overwhelm and replace human developers and designers, and to find ways to preserve the artistic integrity of game narratives in a world where automation increasingly seeks to dominate it. 
 
 I also make mods for *Minecraft: Java Edition*. My mods are primarily based around adding intuitive and interesting survival mechanics to the game. My most popular mod, [Frostiful](#frostiful), has currently amassed a total of 9 million combined downloads across CurseForge and Modrinth. I have been actively developing and supporting this mod, and others, for three years.
 
