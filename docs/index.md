@@ -29,7 +29,7 @@ Along the way I have had to take on feedback, run play tests, handle bug reports
 
 === "Frostologer's Castle"
     <center markdown>![](./assets/frostiful/castle.jpeg)
-    <br/> A custom dungeon structure that naturally generates in the world. It is desinged to provide an ultimate challenge for players to overcome and gain more power over freezing temperatures.</center>
+    <br/> A custom dungeon structure that naturally generates in the world. It is designed to provide an ultimate challenge for players to overcome and gain more power over freezing temperatures. The snow brick blocks that primarily compose this structure were designed specifically for Frostiful.</center>
 
 === "Custom Monsters"
     <center markdown>![](./assets/frostiful/mobs.png)
@@ -37,7 +37,7 @@ Along the way I have had to take on feedback, run play tests, handle bug reports
 
 === "Temperature HUD"
     <center markdown>![](./assets/frostiful/temperature-hud.png)
-    <br/>The temperature indicator of Frostiful is displayed as a frosty overlay of the vanilla heart bar. As temperature is, in general, not a relevant outside of a select set of cold biomes in the Overworld, it is important to not impose it upon the player when it is not necessary. By displaying temperature in this manner, it balances information with UI-noise and is often cited as a highlight of this
+    <br/>The temperature indicator of Frostiful is displayed as a frosty overlay of the vanilla heart bar. As temperature is, in general, not a relevant outside of a select set of cold biomes in the Overworld, it is important to not impose it upon the player when it is not necessary. By displaying temperature in this manner, it balances information with information noise in the HUD. This design is often cited as a highlight of this mod and required many iterations of refinement to achieve.
     </center>
 
 - [:github: GitHub Source](https://www.github.com/TheDeathlyCow/frostiful) 
@@ -48,9 +48,9 @@ Along the way I have had to take on feedback, run play tests, handle bug reports
 ---
 
 ### Scorchful
-**Scorchful** is a mod focused on warm-weather survival and mind control. It is a warm temperature companion mod to [Frostiful](#frostiful) but came with its own set of unique challenges. Warm temperatures are not a common mechanic in video games; and when it is present it is often a very surface level mechanic, such as only requiring to remove heavy armor when in warm areas. So, I set off to design my own **golden mechanic** for handling cooling that would be just as intuitive and useful as making fire is in Frostiful. My solution was **soaking**. Quite simply: when the player is wet, they will be cooled off. Drinking water allows the player to sweat, but going for a swim will work just the same. This intuitive mechanic has made Scorchful an increasingly popular alternative to many other temperature mods that exist for Minecraft today.
+**Scorchful** is a mod focused on warm-weather survival and mind control. It is a warm temperature companion mod to [Frostiful](#frostiful) but came with its own set of unique challenges. Hyp**er**thermia is not a common mechanic in video games; and when it is present it is often a very surface level mechanic, such as only requiring players to remove heavy armor when in warm areas. So, I set off to design my own **golden mechanic** for handling cooling that would be just as intuitive and useful as making fire is in Frostiful. My solution was **soaking**. Quite simply: when the player is wet, they will be cooled off. Players can be become wet from simply swimming in rivers or other bodies of water, or by drinking and allowing themselves to **sweat**. This intuitive mechanic has made Scorchful an increasingly popular alternative to many other temperature mods that exist for Minecraft today.
 
-With Scorchful, I also decided to focus on **rendering** effects, such as creating custom post-processing effects for the various temperature effects. This challenged me to delve into Minecraft's **rendering pipelines** and **shader programming**. The effect is a more dynamic and immersive visual experience for the player with greater "movement" than comparatively simple static images. 
+With Scorchful, I also decided to focus on **rendering** effects, such as creating custom post-processing effects for the various temperature effects. This challenged me to delve into Minecraft's **rendering pipelines** and **shader programming**. The effect is a more dynamic and immersive visual experience for the player with a greater sense of "movement" than comparatively simple static images. 
 
 **Technologies used**: Java 21, IntelliJ, Gradle, Git, Photoshop (for textures), Blockbench (for 3D Models and animations), Audacity, Fabric Mod Loader, OpenGL shader language (GLSL)
 
@@ -63,7 +63,7 @@ With Scorchful, I also decided to focus on **rendering** effects, such as creati
 
 === "Fear Particles"
     <center>![](./assets/scorchful/fear.gif)
-    <br/>When a player is feared (a new status effect introduced by Scorchful), their screen will be desatured using a GLSL shader, and custom animated bat particles will be displayed around their player model.</center>
+    <br/>When a player is feared (another new status effect introduced by Scorchful), their screen will be desatured using a GLSL shader, and custom animated bat particles will be displayed around their player model.</center>
 
 - [:github: GitHub Source](https://www.github.com/TheDeathlyCow/scorchful) 
 - [:curseforge: CurseForge Project Page](https://www.curseforge.com/minecraft/mc-mods/scorchful)
@@ -74,18 +74,13 @@ With Scorchful, I also decided to focus on **rendering** effects, such as creati
 
 ### More Geodes
 
-**More Geodes** is a mod that adds more variety with the Geode feature that was introduced in Minecraft 1.17. It was originally written in Java for the Fabric Mod Loader than ported to Kotlin for the Forge Mod Loader. I have maintained this mod off and on since January 2021. Across all platforms and versions, this mod has amassed over 7 million downloads.
-
-This project was primarily art-focused, adding a variety of new decorative blocks and items. It also included a Crystal Locator item that involved getting into more in-depth rendering techniques to properly display the "X-ray" effect of the item.
+**More Geodes** is a mod that adds more variety with the Geode feature that was introduced in Minecraft 1.17. It was originally written in Java for the Fabric Mod Loader than ported to Kotlin for the Forge Mod Loader. This mod allows for more resources such as emeralds and quartz to become farmable in a convenient and intuitive way for the player, and improves the caving experience by introducing a Crystal Locator that can be help find these geodes (as well as other treasures). I have maintained this mod off and on since January 2021. Across all platforms and versions, this mod has amassed over 7 million downloads.
 
 **Technologies used**: Java 17, Kotlin, IntelliJ, Gradle, Git, Photoshop (for textures), Blockbench (for 3D Models and animations), Audacity, Fabric Mod Loader, Forge Mod Loader
 
 === "Emerald Geode"
     <center>![](./assets/more-geodes/emerald-geode.jpg)
     An Emerald Geode that has been modified by the player to include some Iron Golem guards to protect its riches.</center>
-
-=== "Lapis Lazuli Geode"
-    <center>![](./assets/more-geodes/lapis-geode.jpg)</center>
 
 === "Quartz Geode"
     <center>![](./assets/more-geodes/quartz-geode.jpg)</center>
@@ -108,7 +103,7 @@ Forge / Kotlin:
 
 ---
 ## Games and Software
-I have also created a few other standalone games and software, mostly as projects for University.
+I have also created a few other standalone games and software, mostly as assignments for my undergraduate studies at UC.
 
 ---
 
