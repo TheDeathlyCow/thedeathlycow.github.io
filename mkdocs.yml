@@ -32,4 +32,3 @@ markdown_extensions:
           - overrides/.icons
 
 nav:
-  - index.md
