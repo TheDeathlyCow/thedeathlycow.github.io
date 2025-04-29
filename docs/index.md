@@ -104,6 +104,56 @@ Forge / Kotlin:
 * [:modrinth: Modrinth Project Page](https://www.modrinth.com/mod/more-geodes-reforged)
 
 ---
+### Thermoo
+
+**Thermoo** is a Java library that provides temperature and environment utilities for [Frostiful](#frostiful), [Scorchful](#scorchful), and other mods. In this project, I have endeavoured to create a powerful and well documented for working with temperature in the context of *Minecraft*, with a robust API covering aspects such as player exposure, environmental conditions, seasons, UI rendering, and more.
+
+**Technologies used**: Java 21, Kotlin, IntelliJ, Gradle, Git, Fabric Mod Loader
+
+!!! Example
+    The below JSON file definition is an example of how Frostiful uses Thermoo to define temperature values for freezing climates across various seasons. Environment components use a trait-based framework so that API users may define and use their own parameters seemlessly. The JSON file definition also makes this accessible to configuration by modpack authors, who are typically less technical.
+
+    ??? "Example JSON"
+        ```json
+        {
+            "type": "thermoo:seasonal/temperate",
+            "fallback_season": "spring",
+            "seasons": {
+                "spring": {
+                    "type": "thermoo:constant",
+                    "components": {
+                        "thermoo:temperature": -15.0
+                    }
+                },
+                "summer": {
+                    "type": "thermoo:constant",
+                    "components": {
+                        "thermoo:temperature": -5.0
+                    }
+                },
+                "autumn": {
+                    "type": "thermoo:constant",
+                    "components": {
+                        "thermoo:temperature": -15.0
+                    }
+                },
+                "winter": {
+                    "type": "thermoo:constant",
+                    "components": {
+                        "thermoo:temperature": -25.0
+                    }
+                }
+            }
+        }
+        ```
+
+
+- [:github: GitHub Source](https://www.github.com/TheDeathlyCow/thermoo) 
+- [:book: Developer Wiki](https://thermoo.thedeathlycow.com/)
+- [:curseforge: CurseForge Project Page](https://www.curseforge.com/minecraft/mc-mods/thermoo)
+- [:modrinth: Modrinth Project Page](https://www.modrinth.com/mod/thermoo)
+
+---
 ## Games and Software
 I have also created a few other standalone games and software, mostly as assignments for my undergraduate studies at UC.
 
