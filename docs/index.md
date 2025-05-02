@@ -106,7 +106,7 @@ Forge / Kotlin:
 ---
 ### Thermoo
 
-**Thermoo** is a Java library that provides temperature and environment utilities for [Frostiful](#frostiful), [Scorchful](#scorchful), and other mods. In this project, I have endeavoured to create a powerful and well documented for working with temperature in the context of *Minecraft*, with a robust API covering aspects such as player exposure, environmental conditions, seasons, UI rendering, and more.
+**Thermoo** is a Java library that provides temperature and environment utilities for [Frostiful](#frostiful), [Scorchful](#scorchful), and other mods. In this project, I have endeavoured to create a powerful and well documented library for working with temperature in the context of *Minecraft*, with a robust API covering aspects such as player exposure, environmental conditions, seasons, UI rendering, and more.
 
 **Technologies used**: Java 21, Kotlin, IntelliJ, Gradle, Git, Fabric Mod Loader
 
