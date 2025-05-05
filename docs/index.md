@@ -162,7 +162,7 @@ I have also created a few other standalone games and software, mostly as assignm
 ### Space Escape
 **Space Escape** is a Unity VR escape room set in outer space. The development process for this game required me to create storyboards for the game narrative and playtest with actual players in VR headsets.
 
-This game was submitted to the Escape Room assignment for the PROD223 course in 2023.
+This game was submitted to the Escape Room assignment for the PROD223 course in 2022.
 
 **Technologies used**: Unity, C#, UnityXR, Windows MR, Visual Studio, Git
 
@@ -235,6 +235,26 @@ This game was submitted to the Escape Room assignment for the PROD223 course in 
         ```
 
 - [:github: GitHub Source](https://www.github.com/fictiveworks/calyx-cpp)
+
+---
+
+### PROD225 Dungeon Generator
+
+A simple Unreal Engine 4 game with a procedurally generated Rogue-like dungeon. The objective is to collect coins, defeat goblins, and find the ancient artefact to escape.
+
+This game was submitted as an assignment for the PROD225 course in 2022.
+
+**Technologies used**: Unreal Engine 4, C++, BluePrint
+
+=== "Dungeon Layout"
+    <center>![](./assets/dungeon-generator/dungeon1.png)
+    The generated dungeon layout</center>
+
+=== "In Game View"
+    <center>![](./assets/dungeon-generator/goblins.png)
+    The in-game view of the player facing a bunch of enemies</center>
+
+- [:github: GitHub Source](https://www.github.com/TheDeathlyCow/prod225-assignment-2)
 
 ---
 <center markdown>
