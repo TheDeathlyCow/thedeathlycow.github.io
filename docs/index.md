@@ -266,4 +266,6 @@ This game was submitted as an assignment for the PROD225 course in 2022.
 
 :discord: TheDeathlyCow
 
+[:octicons-mail-24: tns.thedeathlycow@gmail.com](mailto:tns.thedeathlycow@gmail.com)
+
 </center>
