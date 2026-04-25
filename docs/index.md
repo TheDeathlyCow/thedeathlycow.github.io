@@ -21,7 +21,7 @@ title: Home
     <img src="./assets/frostiful/icon.png" alt="Frostiful logo">
     <div class="project-card-info">
       <h3>Frostiful</h3>
-      <p>A mod about snow, hypothermia, and frost magic.</p>
+      <p>A mod about snow, hypothermia survival, and frost magic.</p>
     </div>
   </a>
 
