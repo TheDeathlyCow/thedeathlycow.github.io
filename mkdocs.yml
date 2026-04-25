@@ -12,6 +12,12 @@ theme:
   font:
     text: Lato
 
+copyright: >
+  © TheDeathlyCow. 
+  <br/>
+  All content on this website is licensed under <a href="https://github.com/TheDeathlyCow/thedeathlycow.github.io/blob/main/LICENSE"> CC-BY-NC-SA 4.0</a> unless otherwise noted.
+
+
 extra_css:
   - assets/styles.css
 
@@ -32,3 +38,8 @@ markdown_extensions:
           - overrides/.icons
 
 nav:
+  - index.md
+  - "Minecraft Mods":
+    - frostiful.md
+    - scorchful.md
+    - immersive-storms.md
