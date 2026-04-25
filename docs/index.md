@@ -3,11 +3,12 @@ title: Home
 ---
 <style>
 .md-main {
-    background-image: url('./assets/frostiful/background.png');
+    background-image: url('/assets/frostiful/background.png');
     background-color: var(--md-default-bg-color);
     background-blend-mode: soft-light;
     background-size: cover;
-    background-position: center;
+    background-position: center top;
+    background-attachment: fixed;
 }
 </style>
 
@@ -74,7 +75,7 @@ title: Home
   </a>
 </div>
 
-<center markdown>
+<div markdown style="text-align: center; justify-content: center;">
 ## Contact Me
 
 [:github: TheDeathlyCow](https://www.github.com/TheDeathlyCow)    
@@ -85,4 +86,4 @@ title: Home
 
 [:octicons-mail-24: tns.thedeathlycow@gmail.com](mailto:tns.thedeathlycow@gmail.com)
 
-</center>
+</div>
