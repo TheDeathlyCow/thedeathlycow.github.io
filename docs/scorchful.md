@@ -1,6 +1,21 @@
 ---
 title: Scorchful
 ---
+<style>
+.md-main {
+    background-image: url('/assets/scorchful/background.png');
+    background-color: var(--md-default-bg-color);
+    background-blend-mode: soft-light;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+.md-content {
+    background-color: var(--md-default-bg-color);
+}
+
+</style>
 # Scorchful
 
 <div markdown style="text-align: center; justify-content: center;">
@@ -18,6 +33,14 @@ title: Scorchful
 </div>
 
 </div>
+
+---
+
+Scorchful grew out of [Frostiful](./frostiful.md), primarily based on community feedback (even the name Scorchful comes from a community suggestion!). Many players were asking for a heat-based counterpart to Frostiful, as that mod focused exclusively on cold. If they wanted to have heat as well, they had to create some weird Frankenstein setups with Frostiful and EnvironmentZ/Tough as Nails, or just not use Frostiful at all. It took me some time to warm up to the idea (so to speak), as hyperthermia is a mechanic that is fairly underexplored in most games and media, and I did not feel confident that I had a solid jumping off point to start with it.
+
+However, the jumping off point came from *Dune*. The Fremen's relationship with water and the brutality of Arrakis provided the inspiration for me to develop a new heat system based around sweating and soaking. What I found interesting was that sweating and soaking are essentially the same thing -- they both get you wet, and you cool down because of it. This became my primary mechanic for cooling, similar to fire in Frostiful. Swimming, standing in the rain, or drinking water and sweating it out all provide methods for getting wet, and in turn, cooling down.
+
+With Scorchful I also decided to give a shot at learning shader programming properly for the first time. The heat stroke and fear effects use custom GLSL post-processing shaders rather than simple static overlays, which makes them much more dynamic and interesting than just a simple overlay texture. It was a steep learning curve but the result is one of the things I'm most proud of across all my mods.
 
 ---
 
