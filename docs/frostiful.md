@@ -46,6 +46,8 @@ Frostiful started in early 2022 as an expansion of the Powder Snow freezing mech
 
 I attempted to differentiate Frostiful from other temperature-based survival mods like Tough As Nails or EnvironmentZ by deliberately incorporating its temperature mechanics into the wider world and into adventure. Icicles freeze players who fall on them, which can then be crafted into Glacial Arrows to make freezing itself into a weapon. There is also a new sub-faction of Illagers called the Chillagers who use these arrows as their primary weapon. These Chillagers and their lord, the Frostologer, largely replace vanilla Illagers in snowy biomes, and the player can also embark on a quest to find their castle and take their magic for themselves.
 
+---
+
 <div markdown style="text-align: center; justify-content: center;">
 
 <iframe style="width: 75vw; height: 50vh;" src="https://www.youtube-nocookie.com/embed/nXbpWYjgo-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
