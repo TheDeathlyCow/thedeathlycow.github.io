@@ -2,6 +2,8 @@ site_name: TheDeathlyCow
 
 theme:
   name: material
+  logo: assets/cow.svg
+  favicon: assets/cow.svg
 
   palette:
     - scheme: slate

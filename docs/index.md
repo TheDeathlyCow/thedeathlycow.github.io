@@ -9,6 +9,8 @@ title: Home
 
 <div markdown style="text-align: center; justify-content: center;">
 
+<img src="./assets/jewelsy.jpg" alt="Profile picture" style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover;">
+
 # Hello, I'm TheDeathlyCow!
 
 I'm a software engineer and game developer based in New Zealand. I make a lot of Minecraft mods, mostly focused on the survival aspects of the game. 
