@@ -14,7 +14,6 @@ title: Scorchful
 .md-content {
     background-color: var(--md-default-bg-color);
 }
-
 </style>
 
 <div markdown style="text-align: center; justify-content: center;">
