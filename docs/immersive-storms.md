@@ -20,6 +20,8 @@ title: Immersive Storms
 
 # Immersive Storms
 
+---
+
 === "Sandstorms"
     ![Sandstorms](assets/immersive-storms/sandstorm.jpg)
 
@@ -31,6 +33,8 @@ title: Immersive Storms
 
 === "Swamps"
     ![Swamps](assets/immersive-storms/swamp.jpg)
+
+---
 
 *Immersive fog and weather effects for mountains, deserts, pale gardens, and more!*
 

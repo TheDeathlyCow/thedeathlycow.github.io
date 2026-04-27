@@ -21,7 +21,11 @@ title: Frostiful
 
 # Frostiful
 
+---
+
 ![](./assets/frostiful/title.png)
+
+---
 
 *A mod about snow, hypothermia survival, and frost magic.*
 

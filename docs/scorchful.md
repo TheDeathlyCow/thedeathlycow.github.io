@@ -21,7 +21,11 @@ title: Scorchful
 
 # Scorchful
 
+---
+
 ![](./assets/scorchful/title.png)
+
+---
 
 *A Dune-inspired mod about heat-based survival and combat.*
 
