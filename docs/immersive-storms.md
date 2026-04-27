@@ -21,16 +21,16 @@ title: Immersive Storms
 # Immersive Storms
 
 === "Sandstorms"
-    ![Sandstorms](./assets/immersive-storms/sandstorm.jpg)
+    ![Sandstorms](/assets/immersive-storms/sandstorm.jpg)
 
 === "Blizzards"
-    ![Blizzards](./assets/immersive-storms/blizzard.jpg)
+    ![Blizzards](/assets/immersive-storms/blizzard.jpg)
 
 === "Pale Gardens"
-    ![Sandstorms](./assets/immersive-storms/pale_garden.jpg)
+    ![Pale Gardens](/assets/immersive-storms/pale_garden.jpg)
 
 === "Swamps"
-    ![Sandstorms](./assets/immersive-storms/swamp.jpg)
+    ![Swamps](/assets/immersive-storms/swamp.jpg)
 
 *Immersive fog and weather effects for mountains, deserts, pale gardens, and more!*
 
