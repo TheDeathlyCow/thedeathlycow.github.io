@@ -5,7 +5,7 @@ title: Immersive Storms
 .md-main {
     background-image: url('/assets/immersive-storms/background.png');
     background-color: var(--md-default-bg-color);
-    background-blend-mode: soft-light;
+    background-blend-mode: difference;
     background-size: cover;
     background-position: center top;
     background-attachment: fixed;
