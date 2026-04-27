@@ -11,8 +11,14 @@ title: Home
     background-attachment: fixed;
 }
 </style>
+<div markdown style="text-align: center; justify-content: center;">
 
-# TheDeathlyCow
+# Hello, I'm TheDeathlyCow!
+
+I'm a software engineer and game developer based in New Zealand. I make a lot of Minecraft mods, mostly focused on the survival aspects of the game. 
+
+[:github: GitHub](https://www.github.com/TheDeathlyCow) | [:bluesky: Bluesky](https://bsky.app/profile/thedeathlycow.bsky.social) | [:discord: Discord](https://discord.thedeathlycow.com) | [:octicons-mail-24: Email](mailto:tns.thedeathlycow@gmail.com)
+</div>
 
 ## Minecraft Mods
 
@@ -76,14 +82,5 @@ title: Home
 </div>
 
 <div markdown style="text-align: center; justify-content: center;">
-## Contact Me
-
-[:github: TheDeathlyCow](https://www.github.com/TheDeathlyCow)    
-
-[:bluesky: thedeathlycow.bsky.social](https://bsky.app/profile/thedeathlycow.bsky.social)
-
-[:discord: My Discord Server](https://discord.thedeathlycow.com)
-
-[:octicons-mail-24: tns.thedeathlycow@gmail.com](mailto:tns.thedeathlycow@gmail.com)
 
 </div>

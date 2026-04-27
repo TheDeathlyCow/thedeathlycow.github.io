@@ -16,6 +16,7 @@ title: Frostiful
 }
 
 </style>
+# Frostiful
 
 <div markdown style="text-align: center; justify-content: center;">
 ![](./assets/frostiful/title.png)
