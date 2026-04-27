@@ -16,19 +16,21 @@ title: Scorchful
 }
 
 </style>
-# Scorchful
 
 <div markdown style="text-align: center; justify-content: center;">
+
+# Scorchful
+
 ![](./assets/scorchful/title.png)
 
 *A Dune-inspired mod about heat-based survival and combat.*
 
-<div markdown style="display: flex; gap: 2rem; flex-wrap: wrap; width: 100%; padding: 1rem 0; font-size: 1rem;">
+<div markdown>
 
-<span style="padding: 0 1.5rem;">[:curseforge: **CurseForge**](https://www.curseforge.com/minecraft/mc-mods/scorchful)</span>
-<span style="border-left: 2px solid currentColor; padding: 0 1.5rem;">[:modrinth: **Modrinth**](https://modrinth.com/mod/scorchful)</span>
-<span style="border-left: 2px solid currentColor; padding: 0 1.5rem;">[:github: **GitHub**](https://github.com/TheDeathlyCow/scorchful)</span>
-<span style="border-left: 2px solid currentColor; padding: 0 1.5rem;">[:book: **Wiki**](https://modded.wiki/w/Scorchful)</span>
+<span style="padding: 0 1rem;">[:curseforge:](https://www.curseforge.com/minecraft/mc-mods/scorchful)</span>
+<span style="border-left: 2px solid currentColor; padding: 0 1rem;">[:modrinth:](https://modrinth.com/mod/scorchful)</span>
+<span style="border-left: 2px solid currentColor; padding: 0 1rem;">[:github:](https://github.com/TheDeathlyCow/scorchful)</span>
+<span style="border-left: 2px solid currentColor; padding: 0 1rem;">[:book:](https://modded.wiki/w/Scorchful)</span>
 
 </div>
 

@@ -16,19 +16,21 @@ title: Frostiful
 }
 
 </style>
-# Frostiful
 
 <div markdown style="text-align: center; justify-content: center;">
+
+# Frostiful
+
 ![](./assets/frostiful/title.png)
 
 *A mod about snow, hypothermia survival, and frost magic.*
 
-<div markdown style="display: flex; gap: 2rem; flex-wrap: wrap; width: 100%; padding: 1rem 0; font-size: 1rem;">
+<div markdown>
 
-<span style="padding: 0 1.5rem;">[:curseforge: **CurseForge**](https://www.curseforge.com/minecraft/mc-mods/frostiful)</span>
-<span style="border-left: 2px solid currentColor; padding: 0 1.5rem;">[:modrinth: **Modrinth**](https://modrinth.com/mod/frostiful)</span>
-<span style="border-left: 2px solid currentColor; padding: 0 1.5rem;">[:github: **GitHub**](https://github.com/TheDeathlyCow/frostiful)</span>
-<span style="border-left: 2px solid currentColor; padding: 0 1.5rem;">[:book: **Wiki**](https://modded.wiki/w/Frostiful)</span>
+<span style="padding: 0 1rem;">[:curseforge:](https://www.curseforge.com/minecraft/mc-mods/frostiful)</span>
+<span style="border-left: 2px solid currentColor; padding: 0 1rem;">[:modrinth:](https://modrinth.com/mod/frostiful)</span>
+<span style="border-left: 2px solid currentColor; padding: 0 1rem;">[:github:](https://github.com/TheDeathlyCow/frostiful)</span>
+<span style="border-left: 2px solid currentColor; padding: 0 1rem;">[:book:](https://modded.wiki/w/Frostiful)</span>
 
 </div>
 
