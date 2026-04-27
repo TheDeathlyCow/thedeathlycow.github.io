@@ -2,15 +2,11 @@
 title: Home
 ---
 <style>
-.md-main {
-    background-image: url('/assets/frostiful/background.png');
-    background-color: var(--md-default-bg-color);
-    background-blend-mode: soft-light;
-    background-size: cover;
-    background-position: center top;
-    background-attachment: fixed;
+.md-content {
+    background-color: transparent;
 }
 </style>
+
 <div markdown style="text-align: center; justify-content: center;">
 
 # Hello, I'm TheDeathlyCow!

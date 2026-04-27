@@ -10,10 +10,6 @@ title: Immersive Storms
     background-position: center top;
     background-attachment: fixed;
 }
-
-.md-content {
-    background-color: var(--md-default-bg-color);
-}
 </style>
 
 <div markdown style="text-align: center; justify-content: center;">
