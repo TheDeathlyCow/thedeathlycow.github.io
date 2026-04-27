@@ -58,9 +58,9 @@ I attempted to differentiate Frostiful from other temperature-based survival mod
 
 ## LTS Policy
 
-Frostiful is a mod that I have maintained for many years at this point across many different Minecraft versions. While I would love to support this mod as widely as possible, my time is limited. Therefore, I publish this LTS policy to inform users of what versions and loaders I intend to maintain and support. This page is updated regularly, be sure to check back often (especially when asking for support in [my Discord](https://discord.thedeathlycow.com)).
+Frostiful is a mod that I have maintained for many years at this point across many different Minecraft versions. While I would love to support this mod as widely as possible, my time is limited. Therefore, I publish this Long-Term Support (LTS) policy to inform users of what versions and loaders I intend to maintain and support. This page is updated regularly, be sure to check back often (especially when asking for support in [my Discord](https://discord.thedeathlycow.com)).
 
-This is my current intended support status for each version of Minecraft that Frostiful is available for. The current Long-Term Support (LTS) policy for Frostiful versions is to fully support only the latest game drop.
+This is my current intended support status for each version of Minecraft that Frostiful is available for. The current LTS policy for Frostiful versions is to fully support the first game drop of the current year. If a patch for that game drop breaks compatibility with Frostiful somehow, then I will only support the latest patch.
 
 Supported versions will receive all new features, fixes, and updates.
 

@@ -51,9 +51,9 @@ With Scorchful I also decided to give a shot at learning shader programming prop
 
 ## LTS Policy
 
-Scorchful is a mod that I have maintained for many years at this point across many different Minecraft versions. While I would love to support this mod as widely as possible, my time is limited. Therefore, I publish this LTS policy to inform users of what versions and loaders I intend to maintain and support. This page is updated regularly, be sure to check back often (especially when asking for support in [my Discord](https://discord.thedeathlycow.com)).
+Scorchful is a mod that I have maintained for many years at this point across many different Minecraft versions. While I would love to support this mod as widely as possible, my time is limited. Therefore, I publish this Long-Term Support (LTS) policy to inform users of what versions and loaders I intend to maintain and support. This page is updated regularly, be sure to check back often (especially when asking for support in [my Discord](https://discord.thedeathlycow.com)).
 
-This is my current intended support status for each version of Minecraft that Scorchful is available for. The current Long-Term Support (LTS) policy for Scorchful versions is to fully support the first game drop of the current year. If a patch for that game drop breaks compatibility with Scorchful somehow, then I will only support the latest patch.
+This is my current intended support status for each version of Minecraft that Scorchful is available for. The current LTS policy for Scorchful versions is to fully support the first game drop of the current year. If a patch for that game drop breaks compatibility with Scorchful somehow, then I will only support the latest patch.
 
 Supported versions will receive all new features, fixes, and updates.
 
