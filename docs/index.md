@@ -13,7 +13,7 @@ title: Home
 
 # Hello, I'm TheDeathlyCow!
 
-I'm a software engineer and game developer based in New Zealand. I make a lot of Minecraft mods, mostly focused on the survival aspects of the game. 
+I'm a software engineer, game developer, and Minecraft modder. My mods mostly focused on enhancing the survival aspects of the game to make it more challenging, but fair. 
 
 [:github: GitHub](https://www.github.com/TheDeathlyCow) | [:bluesky: Bluesky](https://bsky.app/profile/thedeathlycow.bsky.social) | [:discord: Discord](https://discord.thedeathlycow.com) | [:octicons-mail-24: Email](mailto:tns.thedeathlycow@gmail.com)
 </div>
